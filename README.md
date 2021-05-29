@@ -13,6 +13,7 @@ Technologies which I was in touch with:
 * Ms Ofiice
 * CSS/HTML
 * SQL
+* Bash
 
 
 ## Skills
