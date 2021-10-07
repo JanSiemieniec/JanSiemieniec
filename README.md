@@ -14,6 +14,8 @@ Technologies which I was in touch with:
 * CSS/HTML
 * SQL
 * Bash
+* CISCO ESA
+* SecureVisio
 
 
 ## Skills
