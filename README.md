@@ -10,6 +10,7 @@ If you want to help me with my first steps on IT, contact me on <b>jan.siemienie
 Technologies which I was in touch with:
 * Java
 * C++
+* Pascal
 * Ms Ofiice
 * CSS/HTML
 * SQL
