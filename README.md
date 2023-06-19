@@ -10,13 +10,15 @@ If you want to help me with my first steps on IT, contact me on <b>jan.siemienie
 Technologies which I was in touch with:
 * Java
 * C++
+* C#
 * Python
-* Ms Ofiice
+* Hibernate
 * CSS/HTML
 * SQL
 * Bash
 * Git
 * UML
+* Ms Ofiice
 
 
 ## Skills
