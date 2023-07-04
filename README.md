@@ -1,12 +1,14 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h4>My name is Jan Siemieniec and my dream is to become a <strong>Software Engineer</strong></h4> 
-I am student of third year on Polsko-Japońska Akademia Technik Komputerowych in Warsaw, in computer science. <br>
-If you want to help me with my first steps on IT, contact me on <b>jan.siemieniec@gmail.com</b>&#128591;
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome to my GitHub profile! I'm Jan Siemieniec, and I'm passionate about becoming a skilled Software Engineer. 🚀
 
+I'm currently a fourth-year student at the Polish-Japanese Academy of Information Technology in Warsaw, pursuing a degree in computer science. I'm eager to gain practical experience in the IT industry and take my first steps towards achieving my goals.
 
+If you have any opportunities, guidance, or advice to share, I'd love to hear from you! You can reach me at <b>jan.siemieniec@gmail.com</b>. Let's connect and collaborate!
 
-## Technologies
-Technologies which I was in touch with:
+## Technologies & Skills
+Here are the technologies and skills I've had the pleasure of working with:
+
+### Technologies:
 * Java
 * C++
 * C#
@@ -17,19 +19,21 @@ Technologies which I was in touch with:
 * Bash
 * Git
 * UML
-* Ms Ofiice
+* MS Office
 
+### Skills:
+* Analytical thinking
+* Problem-solving
+* Information research
+* Teamwork
 
-## Skills
-In my opinion I am good with:
-* analytical way of thinking
-* solving problems
-* research information needs
-* teamwork
+## Let's Connect!
+Feel free to connect with me on various platforms:
 
-## SocialMedia
-* <a href="https://www.facebook.com/jan.siemieniec/">facebook</a>
-* <a href="https://www.linkedin.com/in/jan-siemieniec-b4776920a/">LinkedIn</a>
-* <a href="https://www.codecademy.com/profiles/MrKolorowy">Codecademy</a>
-* <a href="https://leetcode.com/MrCollor/">LeetCode</a>
-* <a href="https://hyperskill.org/profile/375618015">Hyperskill</a>
+* [Facebook](https://www.facebook.com/jan.siemieniec/)
+* [LinkedIn](https://www.linkedin.com/in/jan-siemieniec-b4776920a/)
+* [Codecademy](https://www.codecademy.com/profiles/MrKolorowy)
+* [LeetCode](https://leetcode.com/MrCollor/)
+* [Hyperskill](https://hyperskill.org/profile/375618015)
+
+I'm looking forward to connecting with you and exploring new opportunities together! 😄
